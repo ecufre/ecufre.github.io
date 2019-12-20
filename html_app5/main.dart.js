@@ -32776,10 +32776,10 @@ J:function(a){var u=null
 return M.M0(E.L1(L.dt("Home Page",u)),u,new T.dO(C.Y,u,u,T.RF(H.b([D.jM(L.dt("Second Page",u),C.aN,new X.Hm(),C.j),D.jM(L.dt("Third Page",u),C.aN,new X.Hn(),C.j),D.jM(L.dt("Google",u),C.aN,new X.Ho(),C.j),D.jM(L.dt("Push State",u),C.aN,new X.Hp(),C.j)],[N.bE]),C.iC,C.jr),u))},
 $aY:function(){return[X.mM]}}
 X.Hm.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app4/#/second"},
+$0:function(){return window.location.hash="#/second"},
 $S:6}
 X.Hn.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app4/#/third"},
+$0:function(){return window.location.hash="#/third"},
 $S:6}
 X.Ho.prototype={
 $0:function(){return window.location.href="https://www.google.com"},
@@ -32787,7 +32787,7 @@ $S:6}
 X.Hp.prototype={
 $0:function(){var u=window.history
 u.toString
-u.pushState(new P.i3([],[]).di(null),"","html_app3/#/hola")
+u.pushState(new P.i3([],[]).di(null),"","#/hola")
 return},
 $S:1}
 N.ok.prototype={
@@ -32797,7 +32797,7 @@ J:function(a){var u=null
 return M.M0(E.L1(L.dt("Second Page",u)),C.oG,new T.dO(C.Y,u,u,D.jM(L.dt("HomePage",u),C.aN,new N.IP(),C.j),u))},
 $aY:function(){return[N.ok]}}
 N.IP.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app4/#/home"},
+$0:function(){return window.location.hash="#/home"},
 $S:6}
 V.oN.prototype={
 aG:function(){return new V.Jq(C.o)}}
@@ -32806,7 +32806,7 @@ J:function(a){var u=null
 return M.M0(E.L1(L.dt("Third Page",u)),C.oF,new T.dO(C.Y,u,u,D.jM(L.dt("Home Page",u),C.aN,new V.Jr(),C.j),u))},
 $aY:function(){return[V.oN]}}
 V.Jr.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app4/#/home"},
+$0:function(){return window.location.hash="#/home"},
 $S:6}
 N.rn.prototype={
 gk:function(a){return this.b},
