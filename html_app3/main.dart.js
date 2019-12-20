@@ -32775,10 +32775,10 @@ J:function(a){var u=null
 return M.M_(E.L0(L.em("Home Page",u)),u,new T.dN(C.Y,u,u,T.RE(H.b([D.nT(L.em("Second Page",u),C.aV,new X.Hm(),C.j),D.nT(L.em("Third Page",u),C.aV,new X.Hn(),C.j),D.nT(L.em("Google",u),C.aV,new X.Ho(),C.j)],[N.bE]),C.iC,C.jr),u))},
 $aY:function(){return[X.mL]}}
 X.Hm.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app2/#/second"},
+$0:function(){return window.location.href="https://ecufre.github.io/html_app3/#/second"},
 $S:6}
 X.Hn.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app2/#/third"},
+$0:function(){return window.location.href="https://ecufre.github.io/html_app3/#/third"},
 $S:6}
 X.Ho.prototype={
 $0:function(){return window.location.href="https://www.google.com"},
@@ -32790,7 +32790,7 @@ J:function(a){var u=null
 return M.M_(E.L0(L.em("Second Page",u)),C.oG,new T.dN(C.Y,u,u,D.nT(L.em("HomePage",u),C.aV,new N.IO(),C.j),u))},
 $aY:function(){return[N.ok]}}
 N.IO.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app2/#/home"},
+$0:function(){return window.location.href="https://ecufre.github.io/html_app3/#/home"},
 $S:6}
 V.oN.prototype={
 aG:function(){return new V.Jp(C.o)}}
@@ -32799,7 +32799,7 @@ J:function(a){var u=null
 return M.M_(E.L0(L.em("Third Page",u)),C.oF,new T.dN(C.Y,u,u,D.nT(L.em("Home Page",u),C.aV,new V.Jq(),C.j),u))},
 $aY:function(){return[V.oN]}}
 V.Jq.prototype={
-$0:function(){return window.location.href="https://ecufre.github.io/html_app2/#/home"},
+$0:function(){return window.location.href="https://ecufre.github.io/html_app3/#/home"},
 $S:6}
 N.rn.prototype={
 gk:function(a){return this.b},
