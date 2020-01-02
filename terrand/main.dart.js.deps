@@ -1,7 +1,9 @@
-file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/.dart_tool/flutter_build/c60501128bb0a1f1eb3f9a42f488b299/main.dart
+file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/.dart_tool/flutter_build/de3c22bf24408e50b7c60423d0cf7fe4/main.dart
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/.packages
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/app.dart
+file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/generated_plugin_registrant.dart
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/main.dart
+file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/src/commons/config.dart
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/src/locales/locale_singleton.dart
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/src/locales/spanish_spain_strings.dart
 file:///Users/Eze-Cufre/Documents/Proyectos%20Flutter%20Web/landing_page/lib/src/locales/spanish_strings.dart
@@ -114,6 +116,7 @@ file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib/src/style/url.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib/src/style/windows.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib/src/utils.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib/plugin_platform_interface.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/responsive_builder-0.1.4/lib/responsive_builder.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/source_span.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/colors.dart
@@ -132,6 +135,10 @@ file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/src/generated/unicode_glyph_set.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/term_glyph.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib/url_launcher.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/method_channel_url_launcher.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/url_launcher_platform_interface.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.0+2/lib/url_launcher_web.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
@@ -719,3 +726,6 @@ file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter/lib/src/w
 file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter/lib/src/widgets/widget_span.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter/lib/widgets.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///Users/Eze-Cufre/Documents/development/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
